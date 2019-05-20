@@ -1,0 +1,16 @@
+{
+  "name": "4saftig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "goddag.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "extract-zip": "^1.6.7",
+    "xml2js": "^0.4.19"
+  }
+}
