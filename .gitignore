@@ -1,0 +1,7 @@
+/zipfiles/
+/smallZip/
+/rdf-files/
+/node_modules
+*.rdf
+*.gz
+*.txt
