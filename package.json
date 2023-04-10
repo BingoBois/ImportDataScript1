@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "extract-zip": "^1.6.7",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.5.0"
   }
 }
